@@ -1,17 +1,6 @@
-<h1 align="center>Welcome to my GitHub Profile!</h1>
+<h1 align="center">Welcome to my GitHub Profile!</h1>
+<h2 align="center">Bruno Deilhot</h2>
 
-
-
-
-
-
-- 👋 Hi, I’m @brunodeilhot
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-brunodeilhot/brunodeilhot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm a Junior Frontend Web Developer currently training to become a FullStack Web Developer
+- Currently looking for an oportunity to start my career journey!
+- You can contact me by <a href="mailto:bruno.deyllot@gmail.com" target="_blank">Email</a> or you can check my <a href="https://www.linkedin.com/in/brunodeilhot/">LinkedIn</a>
