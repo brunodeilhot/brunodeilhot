@@ -20,3 +20,9 @@
   - List of Pokemon obtained fully through REST Api
     - [Repository](https://github.com/brunodeilhot/API-training)
     - [Page](https://brunodeilhot.github.io/API-training/)
+
+### Angular
+
+- #### Angular-Training
+  - Simple astrology app using angular with REST Api and routing
+    - [Page](https://brunodeilhot.github.io/Astrology/)
