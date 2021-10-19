@@ -25,4 +25,4 @@
 
 - #### Angular-Training
   - Simple astrology app using angular with REST Api and routing
-    - [Page](https://brunodeilhot.github.io/Astrology/)
+    - [Repository](https://github.com/brunodeilhot/Astrology)
