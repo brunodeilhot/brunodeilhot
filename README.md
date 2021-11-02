@@ -8,7 +8,7 @@
 <br>
 <h2 align="center">Academic Projects</h2>
 
-### Javascript Native
+### Javascript
 
 - #### JS-Training
   - Four fully interactable games
