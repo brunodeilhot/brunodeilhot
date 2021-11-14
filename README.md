@@ -6,7 +6,7 @@
 - Currently looking for an opportunity to start my career journey!
 - You can contact me by <a href="mailto:bruno.deyllot@gmail.com" target="_blank">Email</a> or you can check my <a href="https://www.linkedin.com/in/brunodeilhot/" target="_blank">LinkedIn</a>
 
-### Frameworks I work with:
+#### Frameworks I work with:
    - [Angular](https://github.com/brunodeilhot#angular)
    - [React](https://github.com/brunodeilhot#react)
 
