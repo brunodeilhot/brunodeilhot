@@ -23,7 +23,7 @@
 
 - #### API-Training
   - List of Pokemon obtained fully through REST Api
-    - [Repository](https://github.com/brunodeilhot/API-training)
+    - [Repository](https://github.com/brunodeilhot/API-training#readme)
     - [Page](https://brunodeilhot.github.io/API-training/)
 
 ### Angular
