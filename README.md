@@ -37,7 +37,7 @@
 
 - #### React-Training
   - Showcase app which can be included as a component in a more complex project
-  - Allows users to create, share stories or messages and edit them
+  - Allows users to create, share and edit stories/messages
     - Libraries used:
       - React Redux
       - Formik
