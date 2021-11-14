@@ -38,5 +38,8 @@
       - Formik
       - Yup
       - Axios
+    - Backend support:
+      - Heroku Postgres
+      - PostgREST
     - [Repository](https://github.com/brunodeilhot/react-training)
     - [Page](https://brunodeilhot.github.io/react-training/)
