@@ -12,13 +12,14 @@
 
 <br>
 <h2 align="center">Academic Projects</h2>
+You will find more information on each project by clicking the <b>Repository</b> link.
 
 ### Javascript
 
 - #### JS-Training
   - Four fully interactable games
   - This project's purpose was to train the basics of Javascript, develop logic thinking and continue to put into practice previous knowledge of HTML and SCSS
-    - [Repository](https://github.com/brunodeilhot/JS-training)
+    - [Repository](https://github.com/brunodeilhot/JS-training#readme)
     - [Page](https://brunodeilhot.github.io/JS-training/index.html)
 
 - #### API-Training
