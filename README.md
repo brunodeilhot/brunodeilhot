@@ -41,5 +41,5 @@
     - Backend support:
       - Heroku Postgres
       - PostgREST
-    - [Repository](https://github.com/brunodeilhot/react-training)
+    - [Repository](https://github.com/brunodeilhot/react-training#readme)
     - [Page](https://brunodeilhot.github.io/react-training/)
