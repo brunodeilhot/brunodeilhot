@@ -27,3 +27,16 @@
   - Simple astrology app using angular with REST Api and routing
     - [Repository](https://github.com/brunodeilhot/Astrology)
     - [Page](https://brunodeilhot.github.io/Astrology/)
+
+### React
+
+- #### React-Training
+  - Showcase app which can be included as a component in a more complex project
+  - Allows users to create, share stories or messages and edit them
+    - Libraries used:
+      - React Redux
+      - Formik
+      - Yup
+      - Axios
+    - [Repository](https://github.com/brunodeilhot/react-training)
+    - [Page](https://brunodeilhot.github.io/react-training/)
