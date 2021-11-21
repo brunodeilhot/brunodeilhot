@@ -20,19 +20,19 @@ You will find more information on each project by clicking the <b>Repository</b>
   - Four fully interactable games
   - This project's purpose was to train the basics of Javascript, develop logic thinking and continue to put into practice previous knowledge of HTML and SCSS
     - [Repository](https://github.com/brunodeilhot/JS-training#readme)
-    - [Page](https://brunodeilhot.github.io/JS-training/index.html)
+    - [Live Page](https://brunodeilhot.github.io/JS-training/index.html)
 
 - #### API-Training
   - List of Pokemon obtained fully through REST Api
     - [Repository](https://github.com/brunodeilhot/API-training#readme)
-    - [Page](https://brunodeilhot.github.io/API-training/)
+    - [Live Page](https://brunodeilhot.github.io/API-training/)
 
 ### Angular
 
 - #### Angular-Training
   - Simple astrology app using angular with REST Api and routing
     - [Repository](https://github.com/brunodeilhot/Astrology#readme)
-    - [Page](https://brunodeilhot.github.io/Astrology/)
+    - [Live Page](https://brunodeilhot.github.io/Astrology/)
 
 ### React
 
@@ -48,4 +48,4 @@ You will find more information on each project by clicking the <b>Repository</b>
       - Heroku Postgres
       - PostgREST
     - [Repository](https://github.com/brunodeilhot/react-training#readme)
-    - [Page](https://brunodeilhot.github.io/react-training/)
+    - [Live Page](https://brunodeilhot.github.io/react-training/)
