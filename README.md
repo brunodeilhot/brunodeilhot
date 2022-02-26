@@ -2,9 +2,9 @@
 <br>
 <h2 align="center">Bruno Deilhot</h2>
 
-- I'm a Junior Frontend Developer training to become a FullStack Developer
+- I'm a Junior FullStack Developer;
 - Currently looking for an opportunity to begin this new professional journey!
-- You can contact me by <a href="mailto:brunodeilhot@outlook.com" target="_blank">Email</a>, check my <a href="https://www.linkedin.com/in/brunodeilhot/" target="_blank">LinkedIn</a> or my <a href="https://github.com/brunodeilhot/brunodeilhot/blob/main/BrunoCV-EN.pdf" target="_blank">CV</a>
+- You can contact me by <a href="mailto:brunodeilhot@outlook.com" target="_blank">Email</a>, check my <a href="https://www.linkedin.com/in/brunodeilhot/" target="_blank">LinkedIn</a> or my <a href="https://github.com/brunodeilhot/brunodeilhot/blob/main/BrunoCV-EN.pdf" target="_blank">CV</a>;
 
 #### Frameworks I work with:
    - [Angular](https://github.com/brunodeilhot#angular)
@@ -17,28 +17,28 @@ You will find more information on each project by clicking the <b>Repository</b>
 ### Javascript
 
 - #### JS-Games
-  - Four fully interactable games
-  - This project's purpose was to train the basics of Javascript, develop logic thinking and continue to put into practice previous knowledge of HTML and SCSS
+  - Four fully interactable games;
+  - This project's purpose was to train the basics of Javascript, develop logic thinking and continue to put into practice previous knowledge of HTML and SCSS;
     - [Repository](https://github.com/brunodeilhot/JS-training#readme)
     - [Live Project](https://brunodeilhot.github.io/JS-training/index.html)
 
 - #### Poke-API
-  - List of Pokemon obtained fully through REST Api
+  - List of Pokemon obtained fully through REST Api;
     - [Repository](https://github.com/brunodeilhot/API-training#readme)
     - [Live Project](https://brunodeilhot.github.io/API-training/)
 
 ### Angular
 
 - #### Astrology
-  - Simple astrology app using angular with REST Api and routing
+  - Simple astrology app using angular with REST Api and routing;
     - [Repository](https://github.com/brunodeilhot/Astrology#readme)
     - [Live Project](https://brunodeilhot.github.io/Astrology/)
 
 ### React
 
 - #### React Stories
-  - Showcase app which can be included as a component in a more complex project
-  - Allows users to create, share and edit stories/messages
+  - Showcase app which can be included as a component in a more complex project;
+  - Allows users to create, share and edit stories/messages;
     - Libraries used:
       - React Redux
       - Formik
