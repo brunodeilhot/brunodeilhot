@@ -3,7 +3,6 @@
 <h2 align="center">Bruno Deilhot</h2>
 
 - I'm a Junior FullStack Developer;
-- Currently looking for an opportunity to begin this new professional journey!
 - You can contact me by <a href="mailto:brunodeilhot@outlook.com" target="_blank">Email</a>, check my <a href="https://www.linkedin.com/in/brunodeilhot/" target="_blank">LinkedIn</a> or my <a href="https://github.com/brunodeilhot/brunodeilhot/blob/main/BrunoCV-EN.pdf" target="_blank">CV</a>;
 
 #### Frameworks I work with:
