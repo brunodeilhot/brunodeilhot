@@ -23,8 +23,9 @@ You will find more information on each project by clicking the <b>Repository</b>
 
 - #### Poke-API
   - List of Pokemon obtained fully through REST Api;
+  - Simple exercise to learn more about http requests;
     - [Repository](https://github.com/brunodeilhot/API-training#readme)
-    - [Live Project](https://brunodeilhot.github.io/API-training/)
+    - [Live Project](https://pokemon.brunodeilhot.dev)
 
 ### Angular
 
