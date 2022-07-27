@@ -48,7 +48,7 @@ You will find more information on each project by clicking the <b>Repository</b>
       - Heroku Postgres
       - PostgREST
     - [Repository](https://github.com/brunodeilhot/react-training#readme)
-    - [Live Project](https://brunodeilhot.github.io/react-training/)
+    - [Live Project](https://stories.brunodeilhot.dev)
 
 - #### #whatsinmypantry
   - This app was created as a final FrontEnd project of a FullStack course;
