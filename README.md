@@ -62,3 +62,20 @@ You will find more information on each project by clicking the <b>Repository</b>
     - [Repository](https://github.com/brunodeilhot/whatsinmypantry#readme)
     - [Live Project](https://mypantry.brunodeilhot.dev)
     - [Project Planning](https://miro.com/app/board/o9J_liwM7Y4=/?invite_link_id=497017393349)
+    
+ - ### TikTaco
+   - Final project of my FullStack Web Developer course consisting of a Frontend Web App and a Backend REST Api;
+   - Social media for the culinary lovers inspired by the well known app TikTok.
+      - Frontend:
+         - React with Material UI
+         - Libs include Redux, Axios, React Router and React Hook Forms
+         - Authentication system with Auth0
+      - Backend:
+         - NodeJS with ExpressJS (TypeScript)
+         - MongoDB with Mongoose
+         - Multer for file management
+      - Repositories     
+         - [Frontend](https://github.com/brunodeilhot/TikTaco)
+         - [Backend](https://github.com/brunodeilhot/TikTacoAPIe)
+   
+      - [Live Project](https://tiktaco.brunodeilhot.dev)
