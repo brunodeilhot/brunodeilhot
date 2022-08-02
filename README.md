@@ -65,9 +65,9 @@ You will find more information on each project by clicking the <b>Repository</b>
     
  - ### TikTaco
    - Final project of my FullStack Web Developer course consisting of a Frontend Web App and a Backend REST Api;
-   - Social media for the culinary lovers inspired by the well known app TikTok.
+   - Social media for the culinary lovers inspired by the well known app TikTok;
       - Frontend:
-         - React with Material UI
+         - React with Material UI (TypeScript)
          - Libs include Redux, Axios, React Router and React Hook Forms
          - Authentication system with Auth0
       - Backend:
