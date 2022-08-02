@@ -76,6 +76,6 @@ You will find more information on each project by clicking the <b>Repository</b>
          - Multer for file management
       - Repositories     
          - [Frontend](https://github.com/brunodeilhot/TikTaco)
-         - [Backend](https://github.com/brunodeilhot/TikTacoAPIe)
+         - [Backend](https://github.com/brunodeilhot/TikTacoAPI)
    
       - [Live Project](https://tiktaco.brunodeilhot.dev)
