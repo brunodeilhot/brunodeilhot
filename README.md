@@ -2,8 +2,8 @@
 <br>
 <h2 align="center">Bruno Deilhot</h2>
 
-- I'm a Junior FullStack Developer;
-- You can contact me by <a href="mailto:contact@brunodeilhot.dev" target="_blank">Email</a>, check my <a href="https://www.linkedin.com/in/brunodeilhot/" target="_blank">LinkedIn</a> or my <a href="https://brunodeilhot.dev/BrunoDeilhotCV-EN.pdf" target="_blank">CV</a>;
+- I'm a FullStack Developer;
+- You can contact me by <a href="mailto:contact@brunodeilhot.dev" target="_blank">Email</a> or <a href="https://www.linkedin.com/in/brunodeilhot/" target="_blank">LinkedIn</a>;
 
 #### Frameworks I work with:
    - [Angular](https://github.com/brunodeilhot#angular)
