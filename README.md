@@ -1,54 +1,19 @@
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 <br>
-<h2 align="center">Bruno Deilhot</h2>
 
-- I'm a FullStack Developer;
+- I'm a passionate Software Developer, dedicated to learning more each day and passing on that knowledge to others!;
 - You can contact me by <a href="mailto:contact@brunodeilhot.dev" target="_blank">Email</a> or <a href="https://www.linkedin.com/in/brunodeilhot/" target="_blank">LinkedIn</a>;
 
-#### Frameworks I work with:
-   - [Angular](https://github.com/brunodeilhot#angular)
-   - [React](https://github.com/brunodeilhot#react)
+#### My Tech Stack:
+   
+   <img src="https://img.shields.io/badge/JavaScript-383A47?logo=javascript&style=for-the-badge" alt="javascript"/>  <img src="https://img.shields.io/badge/React-383A47?logo=react&style=for-the-badge" alt="react"/>  <img src="https://img.shields.io/badge/TypeScript-383A47?logo=typescript&style=for-the-badge" alt="typescript"/>  <img src="https://img.shields.io/badge/Angular-383A47?logo=angular&style=for-the-badge" alt="angular"/>  <img src="https://img.shields.io/badge/Node.js-383A47?logo=node.js&style=for-the-badge" alt="nodejs"/>   <img src="https://img.shields.io/badge/NestJS-383A47?logo=nestjs&style=for-the-badge" alt="nestjs"/>  <img src="https://img.shields.io/badge/PHP-383A47?logo=php&style=for-the-badge" alt="php"/>  <img src="https://img.shields.io/badge/Symfony-383A47?logo=symfony&style=for-the-badge" alt="symfony"/>
+   
 
 <br>
-<h2 align="center">Academic Projects</h2>
+<h2 align="center">My Academic / Personal Projects</h2>
 You will find more information on each project by clicking the <b>Repository</b> link.
 
-### Javascript
-
-- #### JS-Games
-  - Four fully interactable games;
-  - This project's purpose was to train the basics of Javascript, develop logic thinking and continue to put into practice previous knowledge of HTML and SCSS;
-    - [Repository](https://github.com/brunodeilhot/JS-training#readme)
-    - [Live Project](https://js-games.brunodeilhot.dev)
-
-- #### Poke-API
-  - List of Pokemon obtained fully through REST Api;
-  - Simple exercise to learn more about http requests;
-    - [Repository](https://github.com/brunodeilhot/API-training#readme)
-    - [Live Project](https://pokemon.brunodeilhot.dev)
-
-### Angular
-
-- #### Astrology
-  - Simple astrology app using angular with REST Api and routing;
-    - [Repository](https://github.com/brunodeilhot/Astrology#readme)
-    - [Live Project](https://astro.brunodeilhot.dev)
-
 ### React
-
-- #### React Stories
-  - Showcase app which can be included as a component in a more complex project;
-  - Allows users to create, share and edit stories/messages;
-    - Libraries used:
-      - React Redux
-      - Formik
-      - Yup
-      - Axios
-    - Backend support:
-      - Heroku Postgres
-      - PostgREST
-    - [Repository](https://github.com/brunodeilhot/react-training#readme)
-    - [Live Project](https://stories.brunodeilhot.dev)
 
 - #### #whatsinmypantry
   - This app was created as a final FrontEnd project of a FullStack course;
@@ -79,3 +44,31 @@ You will find more information on each project by clicking the <b>Repository</b>
          - [Backend](https://github.com/brunodeilhot/TikTacoAPI)
    
       - [Live Project](https://tiktaco.brunodeilhot.dev)
+
+
+### Angular
+
+- #### Astrology
+  - Simple astrology app using angular with REST Api and routing;
+    - [Repository](https://github.com/brunodeilhot/Astrology#readme)
+    - [Live Project](https://astro.brunodeilhot.dev)
+
+
+
+### Javascript
+
+- #### JS-Games
+  - Four fully interactable games;
+  - This project's purpose was to train the basics of Javascript, develop logic thinking and continue to put into practice previous knowledge of HTML and SCSS;
+    - [Repository](https://github.com/brunodeilhot/JS-training#readme)
+    - [Live Project](https://js-games.brunodeilhot.dev)
+
+- #### Poke-API
+  - List of Pokemon obtained fully through REST Api;
+  - Simple exercise to learn more about http requests;
+    - [Repository](https://github.com/brunodeilhot/API-training#readme)
+    - [Live Project](https://pokemon.brunodeilhot.dev)
+
+
+
+
