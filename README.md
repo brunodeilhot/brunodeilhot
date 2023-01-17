@@ -6,7 +6,7 @@
 
 #### My Tech Stack:
    
-   <img src="https://img.shields.io/badge/JavaScript-383A47?logo=javascript&style=for-the-badge" alt="javascript"/>  <img src="https://img.shields.io/badge/React-383A47?logo=react&style=for-the-badge" alt="react"/>  <img src="https://img.shields.io/badge/TypeScript-383A47?logo=typescript&style=for-the-badge" alt="typescript"/>  <img src="https://img.shields.io/badge/Angular-383A47?logo=angular&style=for-the-badge" alt="angular"/>  <img src="https://img.shields.io/badge/Node.js-383A47?logo=node.js&style=for-the-badge" alt="nodejs"/>   <img src="https://img.shields.io/badge/NestJS-383A47?logo=nestjs&style=for-the-badge" alt="nestjs"/>  <img src="https://img.shields.io/badge/PHP-383A47?logo=php&style=for-the-badge" alt="php"/>  <img src="https://img.shields.io/badge/Symfony-383A47?logo=symfony&style=for-the-badge" alt="symfony"/>
+   <img src="https://img.shields.io/badge/JavaScript-383A47?logo=javascript&style=for-the-badge" alt="javascript"/>  <img src="https://img.shields.io/badge/TypeScript-383A47?logo=typescript&style=for-the-badge" alt="typescript"/>  <img src="https://img.shields.io/badge/React-383A47?logo=react&style=for-the-badge" alt="react"/>  <img src="https://img.shields.io/badge/Angular-383A47?logo=angular&style=for-the-badge" alt="angular"/>  <img src="https://img.shields.io/badge/Node.js-383A47?logo=node.js&style=for-the-badge" alt="nodejs"/>   <img src="https://img.shields.io/badge/NestJS-383A47?logo=nestjs&style=for-the-badge" alt="nestjs"/>  <img src="https://img.shields.io/badge/PHP-383A47?logo=php&style=for-the-badge" alt="php"/>  <img src="https://img.shields.io/badge/Symfony-383A47?logo=symfony&style=for-the-badge" alt="symfony"/>
    
 
 <br>
