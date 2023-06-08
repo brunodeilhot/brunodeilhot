@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 <br>
 
-- I'm a passionate Software Developer, dedicated to learn more every day and sharing this knowledge with others!;
+- I'm a passionate Full Stack Developer, dedicated to learn more every day and sharing this knowledge with others!;
 - You can contact me by <a href="mailto:contact@brunodeilhot.dev" target="_blank">Email</a> or <a href="https://www.linkedin.com/in/brunodeilhot/" target="_blank">LinkedIn</a>;
 
 #### My Tech Stack:
