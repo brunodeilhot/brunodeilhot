@@ -13,6 +13,10 @@ I'm a passionate Full Stack Developer, dedicated to improving my skills on a dai
 
 ## 🏆 Personal Projects
 
+### Youtrack Custom Widget Base Project
+  - Given the lack of a concise documentation to create widgets for YouTrack I decided to combine all the information I could and prepare the basis to start the development of custom widgets
+  - Vite + React + TypeScript with the Ring UI provided by JetBrains
+
 ### #whatsinmypantry
   - This app was created as a final FrontEnd project of a FullStack course;
   - Recipe management app designed with a mobile first approach, where users can search for culinary recipes based on ingredients they add to the pantry;
