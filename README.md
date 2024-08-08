@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Full Stack Developer, dedicated to improving my skills on a daily basis and sharing this knowledge with others!<br><br>Currently focused on diving deeper into backend development with TypeScript and PHP but also with a personal interest in Kotlin.<br><br>I also dedicate part of myself into teaching and supporting others that are interested in the same path.
+I'm a passionate Software Engineer, dedicated to improving my skills on a daily basis and sharing this knowledge with others.<br><br>Currently focused on diving deeper into backend development with NodeJS and TypeScript.<br><br>I also dedicate part of my time into teaching and supporting others that are interested in the same professional path.
 
 
 ## 🌐 Socials:
