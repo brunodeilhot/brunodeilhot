@@ -1,56 +1,70 @@
-# 💫 About Me:
-I'm a passionate Software Engineer, dedicated to improving my skills on a daily basis and sharing this knowledge with others.<br><br>Currently focused on diving deeper into backend development with NodeJS and TypeScript.<br><br>I also dedicate part of my time into teaching and supporting others that are interested in the same professional path.
+# Hi, I'm Bruno Deilhot
 
+Software Engineer based in Lisbon, focused on building maintainable products with clear direction, practical architecture decisions, and strong collaboration.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunodeilhot) 
+I currently work as a **Software Engineering Consultant** at **Job Deploy** for **Universidade Europeia**, where I partner with stakeholders to turn complex academic and business needs into reliable internal platforms.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodeilhot&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 Current Focus
 
-## 🏆 Personal Projects
+- Internal platform delivery (product discovery → architecture → implementation)
+- TypeScript-first backend and full-stack development
+- Sustainable engineering practices: maintainability over novelty
+- Exploring **agentic programming** to accelerate delivery
 
-### Youtrack Custom Widget Base Project
-  - Given the lack of a concise documentation to create widgets for YouTrack I decided to combine all the information I could and prepare the basis to start the development of custom widgets
-  - Vite + React + TypeScript with the Ring UI provided by JetBrains
+---
 
-### #whatsinmypantry
-  - This app was created as a final FrontEnd project of a FullStack course;
-  - Recipe management app designed with a mobile first approach, where users can search for culinary recipes based on ingredients they add to the pantry;
-    - Libraries used:
-      - React Redux
-      - Redux Persist
-      - React Router
-      - Axios
-      - Material UI
-    - [Repository](https://github.com/brunodeilhot/whatsinmypantry#readme)
-    - [Live Project](https://mypantry.brunodeilhot.dev)
-    - [Project Planning](https://miro.com/app/board/o9J_liwM7Y4=/?invite_link_id=497017393349)
-    
-### TikTaco
-   - Final project of my FullStack Web Developer course consisting of a Frontend Web App and a Backend REST Api;
-   - Social media for the culinary lovers inspired by the well known app TikTok;
-      - Frontend:
-         - React with Material UI (TypeScript)
-         - Libs include Redux, Axios, React Router and React Hook Forms
-         - Authentication system with Auth0
-      - Backend:
-         - NodeJS with ExpressJS (TypeScript)
-         - MongoDB with Mongoose
-         - Multer for file management
-      - Repositories     
-         - [Frontend](https://github.com/brunodeilhot/TikTaco)
-         - [Backend](https://github.com/brunodeilhot/TikTacoAPI)
-   
-      - [Live Project](https://tiktaco.brunodeilhot.dev)
+## 🧭 How I Work
+
+- **Align first, then execute**
+- Clear communication and explicit trade-offs
+- Technical quality + human quality (trust, feedback, respect)
+
+I like momentum, but not chaos.
+
+---
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:contact@brunodeilhot.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunodeilhot/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/brunodeilhot)
+[![Website](https://img.shields.io/badge/Website-brunodeilhot.dev-111827?logo=vercel&logoColor=white)](https://brunodeilhot.dev)
+
+---
+
+## 📌 Selected Projects
+
+### Personal Website
+
+- [brunodeilhot.dev](https://brunodeilhot.dev)
+- React Router v7 (SSR) + Express + TypeScript + Tailwind CSS
+- Bilingual experience (EN/PT), SEO architecture, CSP-aware rendering
+
+### YouTrack Custom Widget Base Project
+
+- Starter foundation for building custom YouTrack widgets
+- Vite + React + TypeScript + Ring UI (JetBrains)
+
+---
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brunodeilhot&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
